@@ -1,0 +1,12 @@
+1.write a Python programme to find out biggest value among 2 numbers
+# code
+a=int(input("Enter First nummber:"))
+b=int(input("Enter Second number:"))
+if a>b:
+    print(a,"is bigger number")
+else:
+    print(b,"is bigger number")
+#output
+Enter First number:4
+Enter Second number:9
+9 is bigger number
