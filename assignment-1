@@ -16,7 +16,7 @@ Enter Second number:9
 2.Write aPython programme to find out the given number is eveyn or odd number
 #code
 a=int(input("Enter a number:"))
-if (a%2)==0:
+if a%2==0:
     print(a,"is an even number")
 else:
     print(a,"is an odd number")
