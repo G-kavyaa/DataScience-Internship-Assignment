@@ -10,3 +10,14 @@ else:
 Enter First number:4
 Enter Second number:9
 9 is bigger number
+
+2.Write aPython programme to find out the given number is eveyn or odd number
+#code
+a=int(input("Enter a number:"))
+if (a%2)==0:
+    print(a,"is an even number")
+else:
+    print(a,"is an odd number")
+#output
+ Enter a number:6
+6 is an even number
