@@ -1,6 +1,6 @@
 1.write a Python programme to find out biggest value among 2 numbers
 # code
-a=int(input("Enter First nummber:"))
+a=int(input("Enter First number:"))
 b=int(input("Enter Second number:"))
 if a>b:
     print(a,"is bigger number")
@@ -22,8 +22,8 @@ else:
     print(a,"is an odd number")
 
 #output
- Enter a number:6
-6 is an even number
+ Enter a number:8
+ 8 is an even number
 
 
 3.Write a programme to accept student number,name and marks in 3 subjects.Calculate the average .Print the students result based on below conditions.
@@ -61,5 +61,5 @@ Marks in subject1:78
 Marks in subject2:80
 Marks in subject3:76
 total:234
-avg=78.0
+avg:78.0
 Distinction
